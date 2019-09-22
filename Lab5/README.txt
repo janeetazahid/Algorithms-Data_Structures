@@ -1,1 +1,1 @@
-The purpose of this lab was to take in a file contaning XML tags and see if the tags were valid. In order to do this a stack was used. The lab uses the stack to keep track of the start and end tags and see if they match.
+The purpose of this lab was to take in a file contaning XML tags and see if the tags were valid. In order to do this a stack was used. The lab uses the stack to keep track of the start and end tags and see if they match. The code also counts how many tags it has encountered. 
